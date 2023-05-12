@@ -213,7 +213,7 @@ chatbot = Chatbot(api_key="<api_key>")
 chatbot.ask("Hello world")
 ```
 
-### Streaming example
+### مثال حي
 
 ```python
 from revChatGPT.V3 import Chatbot
